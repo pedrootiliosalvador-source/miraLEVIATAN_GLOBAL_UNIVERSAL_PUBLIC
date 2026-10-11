@@ -1,0 +1,9 @@
+This is a placeholder for the compressed LEVIATAN 2.0 complete package.
+To properly add this binary file, please use:
+git add LEVIATAN_2.0__PAQUETE_COMPLETO.tar.gz
+git commit -m "Add LEVIATAN 2.0 Complete Package"
+git push
+
+Or upload directly via GitHub web interface (Drag & Drop).
+
+The actual tar.gz file with all the system components should be added here.
